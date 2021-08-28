@@ -1,0 +1,14 @@
+C:\Users\wsffa\asp.net\Addition\obj\Debug\netcoreapp3.1\Addition.csproj.AssemblyReference.cache
+C:\Users\wsffa\asp.net\Addition\obj\Debug\netcoreapp3.1\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsffa\asp.net\Addition\obj\Debug\netcoreapp3.1\Addition.AssemblyInfoInputs.cache
+C:\Users\wsffa\asp.net\Addition\obj\Debug\netcoreapp3.1\Addition.AssemblyInfo.cs
+C:\Users\wsffa\asp.net\Addition\obj\Debug\netcoreapp3.1\Addition.csproj.CoreCompileInputs.cache
+C:\Users\wsffa\asp.net\Addition\bin\Debug\netcoreapp3.1\Addition.exe
+C:\Users\wsffa\asp.net\Addition\bin\Debug\netcoreapp3.1\Addition.deps.json
+C:\Users\wsffa\asp.net\Addition\bin\Debug\netcoreapp3.1\Addition.runtimeconfig.json
+C:\Users\wsffa\asp.net\Addition\bin\Debug\netcoreapp3.1\Addition.runtimeconfig.dev.json
+C:\Users\wsffa\asp.net\Addition\bin\Debug\netcoreapp3.1\Addition.dll
+C:\Users\wsffa\asp.net\Addition\bin\Debug\netcoreapp3.1\Addition.pdb
+C:\Users\wsffa\asp.net\Addition\obj\Debug\netcoreapp3.1\Addition.dll
+C:\Users\wsffa\asp.net\Addition\obj\Debug\netcoreapp3.1\Addition.pdb
+C:\Users\wsffa\asp.net\Addition\obj\Debug\netcoreapp3.1\Addition.genruntimeconfig.cache
